@@ -1,3 +1,3 @@
 def call() {
-  sh "cat cat start-execution.txt"
+  sh "cat start-execution.txt"
 }
