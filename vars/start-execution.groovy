@@ -1,3 +1,3 @@
 def call() {
-sh "cat start-execution.txt"
+sh "cfy executions start install -d myblueprint"
 }
